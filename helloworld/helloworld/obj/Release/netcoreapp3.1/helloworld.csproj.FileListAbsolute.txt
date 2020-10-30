@@ -1,0 +1,12 @@
+/Users/yasen/vs/helloworld/helloworld/bin/Release/netcoreapp3.1/helloworld.deps.json
+/Users/yasen/vs/helloworld/helloworld/bin/Release/netcoreapp3.1/helloworld.runtimeconfig.json
+/Users/yasen/vs/helloworld/helloworld/bin/Release/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/Users/yasen/vs/helloworld/helloworld/bin/Release/netcoreapp3.1/helloworld.dll
+/Users/yasen/vs/helloworld/helloworld/bin/Release/netcoreapp3.1/helloworld.pdb
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.csprojAssemblyReference.cache
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.dll
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.pdb
+/Users/yasen/vs/helloworld/helloworld/obj/Release/netcoreapp3.1/helloworld.genruntimeconfig.cache

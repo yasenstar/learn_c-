@@ -1,0 +1,14 @@
+/Users/yasen/vs/testwindow/testwindow/bin/Debug/netstandard2.0/testwindow.deps.json
+/Users/yasen/vs/testwindow/testwindow/bin/Debug/netstandard2.0/testwindow.dll
+/Users/yasen/vs/testwindow/testwindow/bin/Debug/netstandard2.0/ref/testwindow.dll
+/Users/yasen/vs/testwindow/testwindow/bin/Debug/netstandard2.0/testwindow.pdb
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.csprojAssemblyReference.cache
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.AssemblyInfoInputs.cache
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.AssemblyInfo.cs
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.dll
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/ref/testwindow.dll
+/Users/yasen/vs/testwindow/testwindow/obj/Debug/netstandard2.0/testwindow.pdb

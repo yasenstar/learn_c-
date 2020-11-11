@@ -1,0 +1,12 @@
+/Users/yasen/vs/dynamic_array/dynamic_array/bin/Debug/netcoreapp3.1/dynamic_array.deps.json
+/Users/yasen/vs/dynamic_array/dynamic_array/bin/Debug/netcoreapp3.1/dynamic_array.runtimeconfig.json
+/Users/yasen/vs/dynamic_array/dynamic_array/bin/Debug/netcoreapp3.1/dynamic_array.runtimeconfig.dev.json
+/Users/yasen/vs/dynamic_array/dynamic_array/bin/Debug/netcoreapp3.1/dynamic_array.dll
+/Users/yasen/vs/dynamic_array/dynamic_array/bin/Debug/netcoreapp3.1/dynamic_array.pdb
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.csprojAssemblyReference.cache
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.AssemblyInfoInputs.cache
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.AssemblyInfo.cs
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.dll
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.pdb
+/Users/yasen/vs/dynamic_array/dynamic_array/obj/Debug/netcoreapp3.1/dynamic_array.genruntimeconfig.cache

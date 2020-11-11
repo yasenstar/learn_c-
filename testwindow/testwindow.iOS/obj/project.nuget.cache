@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoOHkLNRcY998ZuoQeYt682Tiw/RQRi/Y+kuP2ypScwk/W4iDpaIzrabaQBwrGNWQyiETRWDM3M7dQcxmhI2fQ==",
+  "success": true,
+  "projectFilePath": "/Users/yasen/vs/testwindow/testwindow.iOS/testwindow.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/yasen/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/yasen/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

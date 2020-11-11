@@ -1,0 +1,12 @@
+/Users/yasen/vs/newTerminal/newTerminal/bin/Debug/netcoreapp3.1/newTerminal.deps.json
+/Users/yasen/vs/newTerminal/newTerminal/bin/Debug/netcoreapp3.1/newTerminal.runtimeconfig.json
+/Users/yasen/vs/newTerminal/newTerminal/bin/Debug/netcoreapp3.1/newTerminal.runtimeconfig.dev.json
+/Users/yasen/vs/newTerminal/newTerminal/bin/Debug/netcoreapp3.1/newTerminal.dll
+/Users/yasen/vs/newTerminal/newTerminal/bin/Debug/netcoreapp3.1/newTerminal.pdb
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.csprojAssemblyReference.cache
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.AssemblyInfoInputs.cache
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.AssemblyInfo.cs
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.dll
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.pdb
+/Users/yasen/vs/newTerminal/newTerminal/obj/Debug/netcoreapp3.1/newTerminal.genruntimeconfig.cache

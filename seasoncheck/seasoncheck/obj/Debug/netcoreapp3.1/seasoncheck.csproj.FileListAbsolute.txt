@@ -1,0 +1,12 @@
+/Users/yasen/vs/seasoncheck/seasoncheck/bin/Debug/netcoreapp3.1/seasoncheck.deps.json
+/Users/yasen/vs/seasoncheck/seasoncheck/bin/Debug/netcoreapp3.1/seasoncheck.runtimeconfig.json
+/Users/yasen/vs/seasoncheck/seasoncheck/bin/Debug/netcoreapp3.1/seasoncheck.runtimeconfig.dev.json
+/Users/yasen/vs/seasoncheck/seasoncheck/bin/Debug/netcoreapp3.1/seasoncheck.dll
+/Users/yasen/vs/seasoncheck/seasoncheck/bin/Debug/netcoreapp3.1/seasoncheck.pdb
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.csprojAssemblyReference.cache
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.AssemblyInfoInputs.cache
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.AssemblyInfo.cs
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.dll
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.pdb
+/Users/yasen/vs/seasoncheck/seasoncheck/obj/Debug/netcoreapp3.1/seasoncheck.genruntimeconfig.cache

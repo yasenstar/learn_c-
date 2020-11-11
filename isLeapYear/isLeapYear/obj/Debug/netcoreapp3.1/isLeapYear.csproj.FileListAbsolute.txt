@@ -1,0 +1,12 @@
+/Users/yasen/vs/isLeapYear/isLeapYear/bin/Debug/netcoreapp3.1/isLeapYear.deps.json
+/Users/yasen/vs/isLeapYear/isLeapYear/bin/Debug/netcoreapp3.1/isLeapYear.runtimeconfig.json
+/Users/yasen/vs/isLeapYear/isLeapYear/bin/Debug/netcoreapp3.1/isLeapYear.runtimeconfig.dev.json
+/Users/yasen/vs/isLeapYear/isLeapYear/bin/Debug/netcoreapp3.1/isLeapYear.dll
+/Users/yasen/vs/isLeapYear/isLeapYear/bin/Debug/netcoreapp3.1/isLeapYear.pdb
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.csprojAssemblyReference.cache
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.AssemblyInfoInputs.cache
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.AssemblyInfo.cs
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.csproj.CoreCompileInputs.cache
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.dll
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.pdb
+/Users/yasen/vs/isLeapYear/isLeapYear/obj/Debug/netcoreapp3.1/isLeapYear.genruntimeconfig.cache

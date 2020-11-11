@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2117EF64-5C48-427C-815B-156AB9F7BAB0}|Default">
+  <MonoDevelop.Ide.ItemProperties.AgeCheck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AgeCheck/Program.cs">
+    <Files>
+      <File FileName="AgeCheck/Program.cs" Line="18" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AgeCheck" expanded="True" selected="True">
+            <Node name="AgeCheck" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
